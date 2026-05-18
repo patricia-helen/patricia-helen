@@ -16,12 +16,6 @@
 - 📚 **Bootcamp CI&T - Do Prompt ao Agente** (DIO)
 - 🚧 **API REST com Spring Boot** (em construção)
 
-## 📂 Projetos em destaque
-
-🔹 [**calculadora-java**](https://github.com/patricia-helen/calculadora-java) - Primeiro projeto OOP: calculadora com menu interativo e operações básicas
-
-🔹 [**java-fundamentos**](https://github.com/patricia-helen/java-fundamentos) - Estudos de lógica, estruturas de dados e POO
-
 ## 📫 Vamos conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-helen/)
