@@ -1,6 +1,8 @@
 ### Olá, eu sou a Patrícia Moreira! 👋
 
-💻 Desenvolvedora Back-end Java com foco em APIs REST e sistemas de gestão.
+🎓 Estudante de Sistemas de Informação (UFVJM), em reta final de curso, com foco em back-end Java.
+💻 Construindo experiência prática com Spring Boot, aplicando fluxo de trabalho profissional (issues, PRs, sprints) nos meus próprios projetos.
+🌱 Também estudo inglês e japonês, buscando oportunidades internacionais no futuro.
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -12,7 +14,7 @@
 
 ## 🔨 Projeto atual
 
-- 🚧 **ByteHUB** — sistema de gestão de liga acadêmica · Java 21 · Spring Boot 3 · PostgreSQL · Docker
+- 🚧 **ByteHUB** — sistema de gestão de liga acadêmica · Java 21 · Spring Boot 4.1.0 · PostgreSQL · Docker
 
 ## 📫 Contato
 
