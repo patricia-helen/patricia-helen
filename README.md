@@ -1,6 +1,6 @@
 ### Olá, eu sou a Patrícia Moreira! 👋
 
-🎓 Estudante de Sistemas de Informação (UFVJM), em reta final de curso, com foco em back-end Java.
+🎓 Estudante de Sistemas de Informação (UFVJM), com foco em back-end Java.
 💻 Construindo experiência prática com Spring Boot, aplicando fluxo de trabalho profissional (issues, PRs, sprints) nos meus próprios projetos.
 🌱 Também estudo inglês e japonês por interesse pessoal.
 ## 🚀 Tecnologias & Ferramentas
